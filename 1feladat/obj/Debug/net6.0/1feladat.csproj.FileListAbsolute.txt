@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\1feladat\bin\Debug\net6.0\1feladat.exe
+C:\Users\Asus\Desktop\1feladat\bin\Debug\net6.0\1feladat.deps.json
+C:\Users\Asus\Desktop\1feladat\bin\Debug\net6.0\1feladat.runtimeconfig.json
+C:\Users\Asus\Desktop\1feladat\bin\Debug\net6.0\1feladat.dll
+C:\Users\Asus\Desktop\1feladat\bin\Debug\net6.0\1feladat.pdb
+C:\Users\Asus\Desktop\1feladat\obj\Debug\net6.0\1feladat.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\1feladat\obj\Debug\net6.0\1feladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\1feladat\obj\Debug\net6.0\1feladat.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\1feladat\obj\Debug\net6.0\1feladat.AssemblyInfo.cs
+C:\Users\Asus\Desktop\1feladat\obj\Debug\net6.0\1feladat.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\1feladat\obj\Debug\net6.0\1feladat.dll
+C:\Users\Asus\Desktop\1feladat\obj\Debug\net6.0\refint\1feladat.dll
+C:\Users\Asus\Desktop\1feladat\obj\Debug\net6.0\1feladat.pdb
+C:\Users\Asus\Desktop\1feladat\obj\Debug\net6.0\1feladat.genruntimeconfig.cache
+C:\Users\Asus\Desktop\1feladat\obj\Debug\net6.0\ref\1feladat.dll
